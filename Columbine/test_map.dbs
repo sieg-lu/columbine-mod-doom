@@ -52,16 +52,6 @@ maps
 				notfortesting = 0;
 			}
 			
-			
-			resource3
-			{
-				type = 0;
-				location = "C:\\Users\\Yufan\\Desktop\\schoold2.wad";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
-			
 		}
 		
 	}
